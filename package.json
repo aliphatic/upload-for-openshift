@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "request": "^1.9.9",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
