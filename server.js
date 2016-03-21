@@ -59,4 +59,4 @@ var server = http.createServer(function (req, res) {
 
 
 }).listen(port, ipaddr);
-util.log('Server running on port', port. 'and IP', ipaddr);
+util.log('Server running on port', port, 'and IP', ipaddr);
